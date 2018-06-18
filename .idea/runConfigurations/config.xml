@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="config" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console">
+    <module name="_01led" />
+    <setting name="vmparams4" value="-Djline.terminal=NONE" />
+    <setting name="workingDirectory" value="" />
+    <setting name="consoleArgs" value="-usejavacp" />
+    <method />
+  </configuration>
+</component>
