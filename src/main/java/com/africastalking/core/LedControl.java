@@ -21,7 +21,7 @@ public class LedControl {
         Thread.sleep(2000);
 
         // turn off GPIO 1
-        pin.toggle();
+        //pin.toggle();
         System.out.println("light is: OFF");
         // wait 1 second
         Thread.sleep(1000);
